@@ -1,0 +1,21 @@
+# Este é um exemplo de título 
+
+## Este é um exemplo de subtítulo
+
+### Este é um exemplo de título de terceiro nível
+
+Para cada nível de título, adicionar um #
+
+*Este é um exemplo de texto em negrito* > Escrever * texto * (sem os espaços)
+_Este é um exemplo de texto em itálico_ > Escrever _ texto _ (sem os espaços)
+
+- Este 
+- É
+- Um
+- Exemplo
+- De 
+- Lista
+
+Como montar uma lista: adicionar - texto
+
+Para usar um emoji, adicionamos :nome_do_emoji:
