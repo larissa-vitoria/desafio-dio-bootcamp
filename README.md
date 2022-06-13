@@ -7,7 +7,7 @@
 - mkdir (make directory) - cria um novo diretório
 - del (delete)/ rmdir (remove directory) - remove um diretório
 
-Comandos principais do terminal do GitBash:
+## Comandos principais do terminal do GitBash:
 
 - git init - inicia um repositório git no diretório
 - git status - exibe o status dos arquivos
