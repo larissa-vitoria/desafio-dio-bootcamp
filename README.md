@@ -1,6 +1,6 @@
-#Anotações sobre a aula introdutória ao uso do Git/GitHub - Uso em sistema operacional Windows :pencil:
+# Anotações sobre a aula introdutória ao uso do Git/GitHub - Uso em sistema operacional Windows :pencil:
 
-##Comandos básicos no terminal de comando:
+## Comandos básicos no terminal de comando:
 
 - cd (change directory) - acessa e muda o diretório atual
 - dir (directory) - exibe os arquivos do diretório
@@ -25,13 +25,13 @@ Comandos principais do terminal do GitBash:
 - git push origin master (é a branch) - envia o arquivo para a origem
 - git push - envia o arquivo do repositório local para o remoto
 
-##Objetos Internos do Git:
+## Objetos Internos do Git:
 
 - Blobs (Binary Large Object) - tipo de objeto que armazena cada arquivo do repositório
 - Trees - Objeto que arquiva pastas e pode apontar para outras árvores (trees). É um conjunto de valores de índices.
 - Commit - Armazena os "snapshots" do projeto com metadados do autor e data das modificações, possibilitando acessar as versões da alteração
 
-##Chave SSH e Token :closed_lock_with_key::
+## Chave SSH e Token :closed_lock_with_key::
 
 - A Chave SSH representa uma chave pública e uma privada. A pública é postada no Git. A chave privada é específica para a máquina e o usuário. 
 - O Token substitui a senha de acesso, e pode ser utilizado pelo mesmo usuário em diferentes máquinas.
